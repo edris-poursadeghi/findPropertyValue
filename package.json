@@ -1,11 +1,22 @@
 {
-  "name": "findpropertyvalue",
-  "version": "1.0.0",
-  "description": "",
+  "name": "@eddie-dev/findpropertyvalue",
+  "version": "1.2.0",
+  "description": "this is just a simple package for find the value from array or object",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edris-poursadeghi/findPropertyValue.git"
+  },
+  "keywords": [
+    "object"
+  ],
+  "author": "edris poursadeghi (Eddie)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edris-poursadeghi/findPropertyValue/issues"
+  },
+  "homepage": "https://github.com/edris-poursadeghi/findPropertyValue#readme"
 }
